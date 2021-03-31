@@ -5,7 +5,7 @@ Returns Heat Shock Response and Molecular Chaperone genes from a DESeq2 Results 
 
 Simply load in your log-fold change shrinkage (LFC) results from DESeq2 (or other DE analysis). Best is if your rownames have been converted to HGNC symbols, otherwise basic modifications to the code need to be made. Feedback is greatly appreciated. Keep an eye out for false results by checking gene descriptions in the dataframe output.
 
-2 User inputs are required. They are clearly notated in the code.
+2 User inputs are required. They are clearly notated in the code. Then just call the functions.
 
 # Version
 
